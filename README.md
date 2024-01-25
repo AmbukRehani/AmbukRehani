@@ -1,6 +1,6 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Ambuk Rehani 👋
 
-## Data Engineer | Big Data Enthusiast | Lifelong Learner
+## Data Engineer | Data Enthusiast | Lifelong Learner
 
 ---
 
@@ -10,7 +10,7 @@
 ### What I Do
 - 📊 **Data Pipeline Development**: Crafting efficient, scalable pipelines to handle large datasets.
 - ☁️ **Cloud-Based Solutions**: Leveraging AWS and Azure for optimized data storage and processing.
-- 🛠️ **Tool Mastery**: Proficient in Hadoop, Spark, and other big data tools.
+- 🛠️ **Tool Mastery**: Proficient in Spark, Databricks and other data engineering tools.
 - 🤖 **Automation & Optimization**: Streamlining processes to enhance data flow and integrity.
 
 ### My Projects
