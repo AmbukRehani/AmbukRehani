@@ -27,6 +27,6 @@ Here are some of the projects I've worked on:
 
 ### Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
-- Email: [Your Email](mailto:arehani@asu.edu)
+- Email: arehani@asu.edu
 
 Looking forward to collaborating on innovative data engineering projects!
