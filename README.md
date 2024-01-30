@@ -25,7 +25,7 @@
 
 ### My Projects
 Here are some of the projects I've worked on:
-1. [Migration-Insights-Understanding-U.S.-Immigration-Dynamics]([https://github.com/ambuk/Retail-Datawarehouse](https://github.com/ambuk/Migration-Insights-Understanding-U.S.-Immigration-Dynamics)): Description of what the project does.
+1. [Migration-Insights-Understanding-U.S.-Immigration-Dynamics](https://github.com/ambuk/Migration-Insights-Understanding-U.S.-Immigration-Dynamics)): Description of what the project does.
 1. [Retail-Datawarehouse](https://github.com/ambuk/Retail-Datawarehouse): Description of what the project does.
 2. [ETL-Pipeline-Using-Airflow-and-AWS-EMR](https://github.com/ambuk/ETL-Pipeline-Using-Airflow-and-AWS-EMR): Brief description of the project's purpose and technology used.
 
