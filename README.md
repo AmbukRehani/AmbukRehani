@@ -1,5 +1,6 @@
 # Hello, I'm Ambuk Rehani 👋
 
+- [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1ryZgRpx6PwSkKUX1Mm8Tsr_6bZnhd25j/view?usp=drive_link)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ambuk)
 
