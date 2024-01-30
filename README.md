@@ -35,6 +35,6 @@ Here are some of the projects I've worked on:
 
 ### Let's Connect
 
-- [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehani@asu.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehani@asu.edu)
 
 Looking forward to collaborating on innovative data engineering projects!
