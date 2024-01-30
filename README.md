@@ -1,6 +1,6 @@
 # Hello, I'm Ambuk Rehani 👋
 
-![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+# ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ## Data Engineer | Data Enthusiast | Lifelong Learner
 
