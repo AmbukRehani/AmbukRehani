@@ -1,6 +1,6 @@
 # Hello, I'm Ambuk Rehani 👋
 
-- [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1ryZgRpx6PwSkKUX1Mm8Tsr_6bZnhd25j/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1ryZgRpx6PwSkKUX1Mm8Tsr_6bZnhd25j/view?usp=drive_link)
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ambuk)
 
@@ -9,7 +9,8 @@
 
 ---
 
-### About Me
+### About Me | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
+
 🔍 I'm a passionate Data Engineer specializing in transforming complex data into actionable insights. With expertise in Python, SQL, and cloud technologies like AWS and Azure, I build robust data pipelines and architectures.
 
 ### What I Do
@@ -27,7 +28,7 @@ Here are some of the projects I've worked on:
 🌱 Currently enhancing my skills in [Skill or Technology] and exploring [Emerging Technology or Field].
 
 ### Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
+
 - [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehani@asu.edu)
 
 Looking forward to collaborating on innovative data engineering projects!
