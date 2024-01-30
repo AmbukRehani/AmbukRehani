@@ -1,7 +1,5 @@
 # Hello, I'm Ambuk Rehani 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
-
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ambuk)
 
@@ -28,7 +26,7 @@ Here are some of the projects I've worked on:
 🌱 Currently enhancing my skills in [Skill or Technology] and exploring [Emerging Technology or Field].
 
 ### Let's Connect
-- LinkedIn: [Your LinkedIn](LinkedIn-URL)
-- Email: [Your Email](mailto:youremail@example.com)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
+- Email: [Your Email](mailto:arehani@asu.edu)
 
 Looking forward to collaborating on innovative data engineering projects!
