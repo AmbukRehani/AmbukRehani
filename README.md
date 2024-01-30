@@ -14,7 +14,7 @@
 
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1ryZgRpx6PwSkKUX1Mm8Tsr_6bZnhd25j/view?usp=drive_link)
 
-[![Cover Letter](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1jmOeVS8FHUw2oIlC1L1rTlCPVDEv6mmf/view?usp=drive_link)
+[![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1jmOeVS8FHUw2oIlC1L1rTlCPVDEv6mmf/view?usp=drive_link)
 
 
 🔍 I'm a passionate Data Engineer specializing in transforming complex data into actionable insights. With expertise in Python, SQL, and cloud technologies like AWS and Azure, I build robust data pipelines and architectures.
