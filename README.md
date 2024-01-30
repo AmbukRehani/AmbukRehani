@@ -1,7 +1,5 @@
 # Hello, I'm Ambuk Rehani 👋
 
-#0B2343
-
 ## Data Engineer | Data Enthusiast | Lifelong Learner
 
 ---
