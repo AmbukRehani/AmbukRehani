@@ -1,6 +1,6 @@
 # Hello, I'm Ambuk Rehani 👋
 
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ambuk)
 
 
 ## Data Engineer | Data Enthusiast | Lifelong Learner
