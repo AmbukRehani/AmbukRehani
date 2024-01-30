@@ -30,7 +30,7 @@ Here are some of the projects I've worked on:
 3. [ETL-Pipeline-Using-Airflow-and-AWS-EMR](https://github.com/ambuk/ETL-Pipeline-Using-Airflow-and-AWS-EMR): This project is an advanced ETL pipeline utilizing Airflow and AWS EMR to process and clean retail data, enhancing digital retail analytics by integrating Spark jobs for efficient data handling and analysis, with a focus on omni-channel retail strategy and delivery performance.
 
 ### Continuous Learning
-🌱 Currently enhancing my skills in [Skill or Technology] and exploring [Emerging Technology or Field].
+🌱 Currently enhancing my skills in Big Data Technologies and exploring Artificial Intelligence applications in Data Engineering.
 
 ### Let's Connect
 
