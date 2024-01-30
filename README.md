@@ -1,6 +1,6 @@
 # Hello, I'm Ambuk Rehani 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ambuk.Retail-Datawarehouse&left_color=green&right_color=red)
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
 
 ## Data Engineer | Data Enthusiast | Lifelong Learner
 
