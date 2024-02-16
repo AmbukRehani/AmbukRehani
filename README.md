@@ -25,9 +25,11 @@
 
 ### My Projects
 Here are some of the projects I've worked on:
-1. [Migration-Insights-Understanding-U.S.-Immigration-Dynamics](https://github.com/ambuk/Migration-Insights-Understanding-U.S.-Immigration-Dynamics)): - **Developed an analytical platform to study US immigration trends using AWS S3 Buckets, Apache Airlfow and Apache Spark.**
+1. [Migration-Insights-Understanding-U.S.-Immigration-Dynamics](https://github.com/ambuk/Migration-Insights-Understanding-U.S.-Immigration-Dynamics)): -
+- Developed an analytical platform to study US immigration trends using AWS S3 Buckets, Apache Airlfow and Apache Spark.**
 - Introduced AWS EMR clusters to compute data-heavy operations capable of handling 100 times the current data.
 - Scheduled Airflow DAG daily to frequently update the data on S3 buckets to be further queried for different analytical Purposes
+  **Tech Stack : (AWS) S3 buckets, Apache Airflow, Apache Spark, AWS EMR clusters, AWS IAM, SQL.
 
 Tech Stack : (AWS) S3 buckets, Apache Airflow, Apache Spark, AWS EMR clusters, AWS IAM, SQL.
 2. [Retail-Datawarehouse](https://github.com/ambuk/Retail-Datawarehouse): This project is a comprehensive Data Warehouse initiative for a retail company, involving ETL processes with Talend, data modeling, and business performance visualization using Tableau and PowerBI.
