@@ -25,7 +25,11 @@
 
 ### My Projects
 Here are some of the projects I've worked on:
-1. [Migration-Insights-Understanding-U.S.-Immigration-Dynamics](https://github.com/ambuk/Migration-Insights-Understanding-U.S.-Immigration-Dynamics)): This project is a comprehensive analysis of U.S. immigration trends, leveraging AWS, Apache Airflow, and Apache Spark to integrate immigration data with U.S. cities demographics, airport information, and temperature data, forming a Data Lake for insightful policy-making and fostering international cooperation.
+1. [Migration-Insights-Understanding-U.S.-Immigration-Dynamics](https://github.com/ambuk/Migration-Insights-Understanding-U.S.-Immigration-Dynamics)): - **Developed an analytical platform to study US immigration trends using AWS S3 Buckets, Apache Airlfow and Apache Spark.**
+- Introduced AWS EMR clusters to compute data-heavy operations capable of handling 100 times the current data.
+- Scheduled Airflow DAG daily to frequently update the data on S3 buckets to be further queried for different analytical Purposes
+
+Tech Stack : (AWS) S3 buckets, Apache Airflow, Apache Spark, AWS EMR clusters, AWS IAM, SQL.
 2. [Retail-Datawarehouse](https://github.com/ambuk/Retail-Datawarehouse): This project is a comprehensive Data Warehouse initiative for a retail company, involving ETL processes with Talend, data modeling, and business performance visualization using Tableau and PowerBI.
 3. [ETL-Pipeline-Using-Airflow-and-AWS-EMR](https://github.com/ambuk/ETL-Pipeline-Using-Airflow-and-AWS-EMR): This project is an advanced ETL pipeline utilizing Airflow and AWS EMR to process and clean retail data, enhancing digital retail analytics by integrating Spark jobs for efficient data handling and analysis, with a focus on omni-channel retail strategy and delivery performance.
 
