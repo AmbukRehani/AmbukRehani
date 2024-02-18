@@ -4,7 +4,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ambuk)
 
 
-## Data Engineer | Data Enthusiast | Lifelong Learner
+## Data Engineer | Full Stack Software Engineer | Lifelong Learner
 
 ---
 
@@ -44,6 +44,13 @@ Here are some of the projects I've worked on:
 - Trained Logistic Regression and Random Forest models and tuned hyperparameters and selected the best model with 0.85 accuracy based on 5-fold cross-validation.
 - Explored topics important to cat and dog owners by plotting WordCloud.
   **Tech Stack** : Apache Spark, Word2Vec, Spark MLlib
+
+4. [University Recommendation System](https://github.com/ambuk/University-Recommendation-System)
+- Built a website with JavaScript and Bootstrap to provide top 10 university recommendations as a response to various input parameters from potential students.
+- Developed a REST API in Golang and preprocessed Kaggle datasets using Python scripts to set up a visualization framework using Elasticsearch and Kibana.
+- Hosted the website on a Kubernetes cluster to ensure fault-tolerance and reliability
+ **Tech Stack** : Python, HTML, CSS, Javascript, Go, Elasticsearch, Kibana
+
 
 ### Continuous Learning
 🌱 Currently enhancing my skills in Big Data Technologies and exploring Artificial Intelligence applications in Data Engineering.
