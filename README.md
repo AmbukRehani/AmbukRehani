@@ -29,16 +29,21 @@ Here are some of the projects I've worked on:
 - Developed an analytical platform to study US immigration trends using AWS S3 Buckets, Apache Airflow and Apache Spark.
 - Introduced AWS EMR clusters to compute data-heavy operations capable of handling 100 times the current data.
 - Scheduled Airflow DAG daily to frequently update the data on S3 buckets to be further queried for different analytical Purposes
-- **Tech Stack** : (AWS) S3 buckets, Apache Airflow, Apache Spark, AWS EMR clusters, AWS IAM, SQL.
+  **Tech Stack** : (AWS) S3 buckets, Apache Airflow, Apache Spark, AWS EMR clusters, AWS IAM, SQL.
 
 2. [SoundScape Analytics Platform](https://github.com/ambuk/SoundScape-Analytics-Platform):
 - Designed an analytics platform for audiophiles who plan to buy/sell headphones using an End-to-End ELT pipeline and analytics dashboard by loading audio products data into AWS Services (S3, Redshift, RDS)
 - Utilized Terraform to connect multiple AWS Services and automate the pipeline process and implemented Docker to containerize Airflow Server, scheduler and workers.
 - Displayed powerful insights such as consumer preferences, market positioning and product development using Metabase dashboard.
-- **Tech Stack** : AWS (S3, Redshift, RDS), Airflow, Terraform, Docker, Metabase
+  **Tech Stack** : AWS (S3, Redshift, RDS), Airflow, Terraform, Docker, Metabase
 
-2. [Retail-Datawarehouse](https://github.com/ambuk/Retail-Datawarehouse): This project is a comprehensive Data Warehouse initiative for a retail company, involving ETL processes with Talend, data modeling, and business performance visualization using Tableau and PowerBI.
-3. [ETL-Pipeline-Using-Airflow-and-AWS-EMR](https://github.com/ambuk/ETL-Pipeline-Using-Airflow-and-AWS-EMR): This project is an advanced ETL pipeline utilizing Airflow and AWS EMR to process and clean retail data, enhancing digital retail analytics by integrating Spark jobs for efficient data handling and analysis, with a focus on omni-channel retail strategy and delivery performance.
+3. [Youtube-User-Comments-Semantic-Analysis](https://github.com/ambuk/Youtube-User-Comments-Semantic-Analysis)
+- Built machine learning models in Spark to classify if users are cat or dog owners based on 100k comments on Youtube videos.
+- Preprocessed data by removing missing values and labeled part of users based on their comments.
+- Processed users' comments via RegexTokenizer and Word2Vec in SparkML.
+- Trained Logistic Regression and Random Forest models and tuned hyperparameters and selected the best model with 0.85 accuracy based on 5-fold cross-validation.
+- Explored topics important to cat and dog owners by plotting WordCloud.
+  **Tech Stack** : Apache Spark, Word2Vec, Spark MLlib
 
 ### Continuous Learning
 🌱 Currently enhancing my skills in Big Data Technologies and exploring Artificial Intelligence applications in Data Engineering.
