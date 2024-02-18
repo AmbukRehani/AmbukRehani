@@ -51,6 +51,11 @@ Here are some of the projects I've worked on:
 - Hosted the website on a Kubernetes cluster to ensure fault-tolerance and reliability
  **Tech Stack** : Python, HTML, CSS, Javascript, Go, Elasticsearch, Kibana
 
+5. [2048-game-playing-AI-bot-master](https://github.com/ambuk/2048-game-playing-AI-bot-master)
+- Developed an AI bot that could play against and beat a human in a two-player 2048 tile game.
+- Utilized adversarial search algorithms, MinMax, Expecti MinMax, Alpha Beta Pruning to develop the bot.
+  **Tech Stack** : Python
+
 
 ### Continuous Learning
 🌱 Currently enhancing my skills in Big Data Technologies and exploring Artificial Intelligence applications in Data Engineering.
