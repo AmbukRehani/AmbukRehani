@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1qF3-R_vc5iI0kWmYGfXshnHZDJ1_Bm1b/view?usp=drive_link) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1_TMEBGV3GbYQHWh0RRyy5uJMtmZa9j9s/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1wVkdGNj5CZ07qBTY88NXW60gUNZpR_SC/view?usp=sharing) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1_TMEBGV3GbYQHWh0RRyy5uJMtmZa9j9s/view?usp=drive_link)
 
 
 🔍 I'm a passionate Data Engineer specializing in transforming complex data into actionable insights. With expertise in Python, SQL, and cloud technologies like AWS and Azure, I build robust data pipelines and architectures.
