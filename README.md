@@ -15,13 +15,13 @@
 [![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1wVkdGNj5CZ07qBTY88NXW60gUNZpR_SC/view?usp=sharing) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1_TMEBGV3GbYQHWh0RRyy5uJMtmZa9j9s/view?usp=drive_link)
 
 
-🔍 I'm a passionate Data Engineer specializing in transforming complex data into actionable insights. With expertise in Python, SQL, and cloud technologies like AWS and Azure, I build robust data pipelines and architectures.
+🔍 As a Data Engineer and Full Stack Software Developer, I specialize in turning complex data into insights and crafting seamless software solutions. Expert in Python, SQL, AWS, Azure, and full-stack development, I create robust data pipelines and integrated applications that drive progress and efficiency.
 
 ### What I Do
-- 📊 **Data Pipeline Development**: Crafting efficient, scalable pipelines to handle large datasets.
-- ☁️ **Cloud-Based Solutions**: Leveraging AWS and Azure for optimized data storage and processing.
-- 🛠️ **Tool Mastery**: Proficient in Spark, Databricks and other data engineering tools.
-- 🤖 **Automation & Optimization**: Streamlining processes to enhance data flow and integrity.
+- 📊 **Data Pipeline and Web Application Development**: Crafting efficient, scalable pipelines and robust web applications to handle large datasets and user interactions.
+- ☁️ **Cloud-Based Solutions & Full Stack Integration**: Leveraging AWS and Azure for optimized data storage, processing, and seamless integration between front-end and back-end technologies.
+- 🛠️ **Tool and Technology Mastery**: Proficient in Spark, Databricks, and essential full-stack technologies (e.g., React, Node.js) to build comprehensive data engineering and web development solutions.
+- 🤖 **Automation, Optimization & System Design**: Streamlining processes to enhance data flow, integrity, and user experience, ensuring high performance and scalable system architecture.
 
 ### My Projects
 Here are some of the projects I've worked on:
