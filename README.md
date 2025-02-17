@@ -1,7 +1,9 @@
 # Hello, I'm Ambuk Rehani 👋
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/ambuk)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/AmbukRehani)
+
+![Profile Views](https://komarev.com/ghpvc/?username=AmbukRehani)
 
 
 ## Data Engineer | Full Stack Software Engineer | Lifelong Learner
