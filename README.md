@@ -6,24 +6,41 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=AmbukRehani)
 
 
-## Data Engineer | Full Stack Software Engineer | Lifelong Learner
+## AI Engineer | Backend Engineer | Lifelong Learner
 
 ---
 
-### About Me 
+### About Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/1wVkdGNj5CZ07qBTY88NXW60gUNZpR_SC/view?usp=sharing) [![Cover Letter](https://img.shields.io/badge/Cover%20Letter-Download-brightgreen)](https://drive.google.com/file/d/1_TMEBGV3GbYQHWh0RRyy5uJMtmZa9j9s/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/REPLACE_WITH_UPDATED_RESUME_LINK/view?usp=sharing)
 
-
-🔍 As a Data Engineer and Full Stack Software Developer, I specialize in turning complex data into insights and crafting seamless software solutions. Expert in Python, SQL, AWS, Azure, and full-stack development, I create robust data pipelines and integrated applications that drive progress and efficiency.
+🔍 AI Engineer and Backend Engineer with 5+ years of experience building production AI systems, data pipelines, and scalable backend platforms across EdTech, Consulting/CPG, and Industrial Automation. I take AI from proof of concept to production, translating business problems into revenue-critical systems that enterprises trust for high-stakes decisions.
 
 ### What I Do
-- 📊 **Data Pipeline and Web Application Development**: Crafting efficient, scalable pipelines and robust web applications to handle large datasets and user interactions.
-- ☁️ **Cloud-Based Solutions & Full Stack Integration**: Leveraging AWS and Azure for optimized data storage, processing, and seamless integration between front-end and back-end technologies.
-- 🛠️ **Tool and Technology Mastery**: Proficient in Spark, Databricks, and essential full-stack technologies (e.g., React, Node.js) to build comprehensive data engineering and web development solutions.
-- 🤖 **Automation, Optimization & System Design**: Streamlining processes to enhance data flow, integrity, and user experience, ensuring high performance and scalable system architecture.
+- 🤖 **Agentic AI Systems & RAG Architecture**: Designing and shipping production agentic pipelines with LangGraph orchestration, hybrid retrieval (dense + sparse with reranking), and text-to-SQL over validated templates.
+- 📊 **Production LLM Engineering & Evaluation**: Building evaluation frameworks with RAGAS, precision/recall analysis, and hallucination detection so AI systems earn enterprise trust, not just demo well.
+- 🛠️ **ETL & Data Platform Engineering**: Building production Databricks ETL with medallion architecture, idempotent incremental loads, and harmonized datasets across heterogeneous sources.
+- ☁️ **Backend API Design & Distributed Systems**: Crafting FastAPI/Flask services, event-driven pipelines (Kafka), and cloud-native deployments on AWS, Docker, and Kubernetes.
+
+### Professional Experience
+
+**EAB — AI Engineer (Jul 2024 – Present)**
+- Built a production agentic conversational analytics platform enabling 80+ partner universities to query complex enrollment and financial data in natural language, contributing $1M+ in product revenue.
+- Architected a LangGraph-based agent that extracts parameters from natural language to populate pre-validated SQL templates with cross-encoder reranking, lifting deterministic query accuracy from ~10% to 95%.
+- Designed the RAG pipeline (Pinecone dense + sparse hybrid retrieval) powering AI-driven insights from previously non-queryable regulatory data, saving 2,100+ analyst hours annually.
+- Implemented MCP integrations for secure agent access to enterprise tools; the pattern was extended into an Atlassian integration adopted by 200+ engineers internally.
+
+**Nagarro — Software Engineer (Jun 2018 – Jul 2022)**
+
+*Client: Siemens*
+- Built the editorial workflow engine for Siemens' mission-critical industrial equipment documentation: a multi-stage review pipeline (owner → technical → commercial reviewer) with RBAC, track changes, and version history, publishing to a catalog portal used by clients like Renault for purchase decisions.
+- Scaled the B2B content platform to 5,000+ daily active users on Python, Flask, and AWS; modernized legacy SOAP architecture to REST APIs and improved PostgreSQL read performance by 30%.
+
+*Client: McKinsey (Reckitt Benckiser)*
+- Founding data engineer on the engagement: rebuilt 12+ fragile notebook pipelines into production Databricks ETL (Nielsen POS, retailer feeds, APIs, S3 → Parquet) with medallion architecture, cutting pipeline failure rate to under 2%.
+- Unified 5 heterogeneous data sources into harmonized Parquet datasets covering 30K+ SKUs at a 98%+ match rate, feeding the ML pricing models and Power BI dashboards behind Reckitt's pricing, promo, and trade decisions.
 
 ### My Projects
 Here are some of the projects I've worked on:
@@ -59,11 +76,18 @@ Here are some of the projects I've worked on:
   **Tech Stack** : Python
 
 
-### Continuous Learning
-🌱 Currently enhancing my skills in Big Data Technologies and exploring Artificial Intelligence applications in Data Engineering.
+### Tools & Technologies
+- **AI/LLM**: RAG, LangChain/LangGraph, Agentic AI, GPT-4o (Vision), Pinecone, Embeddings & Reranking, Text-to-SQL, RAGAS, MCP
+- **Programming**: Python (FastAPI, Flask, Pandas), SQL, Go, JavaScript/TypeScript
+- **Data Engineering**: Databricks, Snowflake, dbt, ETL, Parquet, Kafka
+- **Databases**: PostgreSQL, MySQL, Vector Databases (Pinecone)
+- **Cloud & DevOps**: AWS (EC2, S3, Lambda, EKS), Docker, Kubernetes, Git, CI/CD
+
+### What I'm Looking For
+🌱 Open to full-time opportunities in the United States (on-site, hybrid, or remote) in roles such as AI Engineer, Applied AI Engineer, Agentic AI Engineer, Backend Engineer, and Software Engineer.
 
 ### Let's Connect
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arehani@asu.edu)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rehaniambuk@gmail.com)
 
-Looking forward to collaborating on innovative data engineering projects!
+Looking forward to collaborating on production AI and backend systems!
