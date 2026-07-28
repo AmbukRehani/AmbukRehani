@@ -14,8 +14,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ambuk-rehani/)
 
-[![Resume](https://img.shields.io/badge/Resume-Download-blue)](https://drive.google.com/file/d/REPLACE_WITH_UPDATED_RESUME_LINK/view?usp=sharing)
-
 🔍 AI Engineer and Backend Engineer with 5+ years of experience building production AI systems, data pipelines, and scalable backend platforms across EdTech, Consulting/CPG, and Industrial Automation. I take AI from proof of concept to production, translating business problems into revenue-critical systems that enterprises trust for high-stakes decisions.
 
 ### What I Do
